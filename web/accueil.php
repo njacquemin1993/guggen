@@ -11,9 +11,24 @@
       <p> En ce 27 février 2019, une trentaine de membres va s'envoler pour les Antilles, destination la Martinique.</p>
       <p> Pour la 3ème fois après 2001 et <a href="martinique.php">2007</a>, les Mokshû Lion's vont fêter le carnaval au soleil avec leurs amis du Baryl Band. </p>
       <p> De nombreuses parades sont au programme. Pour ne rien louper, rendez vous sur notre <a href="https://www.facebook.com/guggenmokshulions" target="_blank">page facebook</a>.</p>
-      <p> Merci au Nouvelliste pour son <a href="https://www.lenouvelliste.ch/articles/valais/martigny-region/destination-martinique-pour-la-guggenmusik-mokshu-lion-s-de-martigny-822758" target="_blank">article</a>.</p>
-      <p> Retrouvez nous également en live sur Rhône FM le 1er, 4 et 6 mars à 17h30. </p>
-      <img alt="Martinique" src="images/Martinique6.jpg" />
+      <p> Merci au différents journaux pour les articles: </p>
+      <ul>
+        <li> <a href="https://www.lenouvelliste.ch/articles/valais/martigny-region/destination-martinique-pour-la-guggenmusik-mokshu-lion-s-de-martigny-822758" target="_blank">Le Nouvelliste</a></li>
+        <li> <a href="https://la1ere.francetvinfo.fr/martinique/suisses-martigny-apportent-leur-sonorite-au-carnaval-martinique-685744.html" target="_blank">France Info</a></li>
+      </ul>
+      <p> Retrouvez nous également en live sur Rhône FM le 1er, 4 et 6 mars à 17h30: </p>
+      <audio tabindex="0" id="player" controls="controls"></audio>
+      <ul id="playlist">
+        <?php
+        $morceaux = array(
+          "01.03.2019",
+        );
+        foreach ($morceaux as $title){
+          echo '<li><a href="martinique/RhoneFM-' . htmlspecialchars($title) . '.mp3" onclick="loadSong()">' . htmlspecialchars($title) . '</a></li>';
+        }
+        ?>
+      </ul>
+      <p align="center"><div class="iframewrapper"><iframe src="https://www.youtube.com/embed/t2Xcadvntl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
     </div>
     <div class="hsep">
       <div class="vspace"></div>
