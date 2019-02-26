@@ -6,19 +6,14 @@
   <div class="row">
     <div class="news">
       <img src="images/band_news.jpg" />
-      <h2> SOIREE ANNUELLE 1.12.2018</h2>
-      <p> Cette année, c'est le grand retour à MARTIGNY-CROIX pour cette 21e édition de notre soirée annuelle... Une nouvelle salle pour un nouveau départ ! </p>
-      <h3> PROGRAMME</h3>
-      <ul>
-        <li> 15h à 18h Animation de la Place Centrale de Martigny avec les guggens invitées, dans le cadre du Téléthon </li>
-        <li> dès 20h Concerts des guggens invitées à la Salle de l'Eau Vive à Martigny-Croix </li>
-        <li> à 23h15 Concert des Mokshû Lion's </li>
-        <li> dès minuit, BAL avec l'orchestre MAGIC MEN </li>
-      </ul>
-      <p> Pour les rapatriements: rentrez en toute sécurité avec Nez Rouge ou en Lunabus (départs : 00h15 direction Sion, 02h30 direction Sion, 02h30 direction Monthey).</p>
-      <p> Informations complémentaires ici : </p>
-      <p><a href="https://www.facebook.com/events/352790668618033" target="_blank">https://www.facebook.com/events/352790668618033 </a> </p>
-      <img alt="Affiche soirée 2018" src="images/affiche2018.jpg" />
+      <h2> VOYAGE EN MARTINIQUE</h2>
+      <img alt="Martinique" src="images/groupeplage.jpg" />
+      <p> En ce 27 février 2019, une trentaine de membres va s'envoler pour les Antilles, destination la Martinique.</p>
+      <p> Pour la 3ème fois après 2001 et <a href="martinique.php">2007</a>, les Mokshû Lion's vont fêter le carnaval au soleil avec leurs amis du Baryl Band. </p>
+      <p> De nombreuses parades sont au programme. Pour ne rien louper, rendez vous sur notre <a href="https://www.facebook.com/guggenmokshulions" target="_blank">page facebook</a>.</p>
+      <p> Merci au Nouvelliste pour son <a href="https://www.lenouvelliste.ch/articles/valais/martigny-region/destination-martinique-pour-la-guggenmusik-mokshu-lion-s-de-martigny-822758" target="_blank">article</a>.</p>
+      <p> Retrouvez nous également en live sur Rhône FM le 1er, 4 et 6 mars à 17h30. </p>
+      <img alt="Martinique" src="images/Martinique6.jpg" />
     </div>
     <div class="hsep">
       <div class="vspace"></div>
