@@ -18,11 +18,11 @@ Please enjoy this free script!
 // EDIT SETTINGS BELOW TO CUSTOMIZE YOUR GALLERY
 $thumbs_pr_page 		= "1000"; //Number of thumbnails on a single page
 $gallery_width 			= "80%"; //Gallery width. Eg: "500px" or "70%"
-$backgroundcolor 		= "white"; //This provides a quick way to change your gallerys background to suit your website. Use either main colors like "black", "white", "yellow" etc. Or HEX colors, eg. "#AAAAAA"
+$backgroundcolor 		= "#FFFFFF"; //This provides a quick way to change your gallerys background to suit your website. Use either main colors like "black", "white", "yellow" etc. Or HEX colors, eg. "#AAAAAA"
 $templatefile 			= "exhibition"; //Template filename (must be placed in 'templates' folder)
 $title 					= "Albums Photos 2006-2019"; // Text to be displayed in browser titlebar
 $author 				= "Mokshû Lion's";
-$folder_color 			= "black"; // Color of folder icons: blue / black / vista / purple / green / grey
+$folder_color 			= "grey"; // Color of folder icons: blue / black / vista / purple / green / grey
 $sorting_folders		= "date"; // Sort folders by: [name][date]
 $sorting_files			= "date"; // Sort files by: [name][date][size]
 $sortdir_folders		= "ASC"; // Sort direction of folders: [ASC][DESC]

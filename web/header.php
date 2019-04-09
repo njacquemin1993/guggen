@@ -8,7 +8,7 @@
     <meta http-equiv="Content-Language" content="fr" />
     <meta charset="UTF-8"/>
     <title>Guggen Mokshû Lion's, Martigny - Suisse </title>
-    <link href="style.css?v=1.1" rel="stylesheet" type="text/css" />
+    <link href="/style.css?v=1.1" rel="stylesheet" type="text/css" />
     <script language="JavaScript" type="text/javascript">
       function OpenPopup(page,largeur,hauteur,options) {
       var top=(screen.height-hauteur)/2;
@@ -52,20 +52,20 @@
 
   <body>
     <div class="container">
-      <header onload="MM_preloadImages('images/bar-menu_02.gif','images/menu2_02.gif','images/menu2_04.gif','images/menu2_06.gif','images/menu2_08.gif','images/menu2_10.gif','images/menu2_12.gif','images/menu2_14.gif','images/menu2_16.gif','images/menu2_18.gif','images/menu2_20.gif')">
+      <header onload="MM_preloadImages('/images/bar-menu_02.gif','/images/menu2_02.gif','/images/menu2_04.gif','/images/menu2_06.gif','/images/menu2_08.gif','/images/menu2_10.gif','/images/menu2_12.gif','/images/menu2_14.gif','/images/menu2_16.gif','/images/menu2_18.gif','/images/menu2_20.gif')">
         <div style="background-color: black;">
-          <img src="images/header.jpg" border="0" width="100%" />
+          <img src="/images/header.jpg" border="0" width="100%" />
         </div>
         <table>
           <tbody>
             <tr>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','images/menu2_02.gif',1)" href="accueil.php"><img class="header" src="images/bar-menu_02.gif" name="Image15" id="Image15" border="0" style="max-width:67px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','images/menu2_04.gif',1)" href="presentation.php"><img class="header" src="images/bar-menu_04.gif" name="Image16" id="Image16" border="0" style="max-width:109px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','images/menu2_06.gif',1)" href="membres.php"><img class="header" src="images/bar-menu_06.gif" name="Image17" id="Image17" border="0" style="max-width:83px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/menu2_08.gif',1)" href="agenda.php"><img class="header" src="images/bar-menu_08.gif" name="Image18" id="Image18" border="0" style="max-width:70px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/menu2_10.gif',1)" href="galerie/index.php" target="_blank"><img class="header" src="images/bar-menu_10.gif" name="Image19" id="Image19" border="0" style="max-width:63px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/menu2_14.gif',1)" href="liens.php"><img class="header" src="images/bar-menu_14.gif" name="Image21" id="Image21" border="0" style="max-width:47px; width:100%;" /></a></td>
-              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/menu2_16.gif',1)" href="contact.php"><img class="header" src="images/bar-menu_16.gif" name="Image22" id="Image22" border="0" style="max-width:71px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/images/menu2_02.gif',1)" href="/accueil.php"><img class="header" src="/images/bar-menu_02.gif" name="Image15" id="Image15" border="0" style="max-width:67px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/menu2_04.gif',1)" href="/presentation.php"><img class="header" src="/images/bar-menu_04.gif" name="Image16" id="Image16" border="0" style="max-width:109px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/menu2_06.gif',1)" href="/membres.php"><img class="header" src="/images/bar-menu_06.gif" name="Image17" id="Image17" border="0" style="max-width:83px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','/images/menu2_08.gif',1)" href="/agenda.php"><img class="header" src="/images/bar-menu_08.gif" name="Image18" id="Image18" border="0" style="max-width:70px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','/images/menu2_10.gif',1)" href="/galerie/index.php" target="_blank"><img class="header" src="/images/bar-menu_10.gif" name="Image19" id="Image19" border="0" style="max-width:63px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','/images/menu2_14.gif',1)" href="/liens.php"><img class="header" src="/images/bar-menu_14.gif" name="Image21" id="Image21" border="0" style="max-width:47px; width:100%;" /></a></td>
+              <td> <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/images/menu2_16.gif',1)" href="/contact.php"><img class="header" src="/images/bar-menu_16.gif" name="Image22" id="Image22" border="0" style="max-width:71px; width:100%;" /></a></td>
             </tr>
           </tbody>
         </table>

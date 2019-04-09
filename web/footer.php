@@ -1,5 +1,5 @@
 
-        <img src="images/band_fs.jpg"/>
+        <img src="/images/band_fs.jpg"/>
       </div>
     </div>
   </body>
