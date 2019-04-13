@@ -851,11 +851,11 @@ var Mediabox;
 			if (options.imgBackground) {
 				image.setStyles({backgroundImage: "url("+URL+")", display: ""});
 			} else {	// Thanks to Dusan Medlin for fixing large 16x9 image errors in a 4x3 browser
-				if (mediaHeight >= winHeight-options.imgPadding && (mediaHeight / winHeight) >= (mediaWidth / winWidth)) {
+				if ((mediaHeight / winHeight) >= (mediaWidth / winWidth)) {
 					mediaHeight = winHeight-options.imgPadding;
 					mediaWidth = preload.width = parseInt((mediaHeight/preload.height)*mediaWidth);
 					preload.height = mediaHeight;
-				} else if (mediaWidth >= winWidth-options.imgPadding && (mediaHeight / winHeight) < (mediaWidth / winWidth)) {
+				} else {
 					mediaWidth = winWidth-options.imgPadding;
 					mediaHeight = preload.height = parseInt((mediaWidth/preload.width)*mediaHeight);
 					preload.width = mediaWidth;
