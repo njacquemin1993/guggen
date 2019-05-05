@@ -37,7 +37,7 @@
     </ul>
   </div>
 
-  <a href="galerie/thumbnails.php?album=109"><img alt="enregistrement studio" src="images/cd-studio.jpg" /></a>
+  <a href="galerie/index.php?dir=2012/Enregistrement du CD"><img alt="enregistrement studio" src="images/cd-studio.jpg" /></a>
   <p align="center">Cliquez sur l'image pour voir toutes les photos de l'enregistrement du CD au Studio Fab</p>
 </div>
 
